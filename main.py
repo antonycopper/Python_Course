@@ -1,3 +1,2 @@
-n = 5
-
-print(type(n))
+text = 'СъЕШЬ еще этих МяГкИх французких булок'
+print(text.upper())
