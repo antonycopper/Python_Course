@@ -1,2 +1,2 @@
 text = 'СъЕШЬ еще этих МяГкИх французких булок'
-print(text.upper())
+print(text.replace('еще','ЕЩЁ'))
