@@ -1,2 +1,2 @@
 int = 10
-print (int)
+print(int)
